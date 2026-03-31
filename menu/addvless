@@ -39,7 +39,7 @@ export TIME="10"
 export URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
 #IZIN SCRIPT
-MYIP=$(curl -sS ipv4.icanhazip.com)
+MYIP=$(curl -sS ipv4.macaca.my.id)
 echo -e "\e[32mloading...\e[0m"
 clear
 # Valid Script
